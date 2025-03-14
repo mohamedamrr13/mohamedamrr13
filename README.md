@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A Passionate Flutter Developer From Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fady4mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="fady4mohamed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedamrr13&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedamrr13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedamrr13" alt="mohamedamrr13" /></a> </p>
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mohamed-amr-66774922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fady-mohamed-442823278" height="30" width="40" /></a>
-<a href="https://fb.com/fady.m0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fady.m0" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mohamed-amr-66774922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amr-66774922" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006555128343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100006555128343" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
