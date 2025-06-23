@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedamrr13" alt="mohamedamrr13" /></a> </p>
 
-- 🔭 I’m currently working on **Exclusive App** an eccomerce website
+- 🔭 Currently Developing: SphinxGo App – an innovative cross-platform (Android + iOS) tourism application and my graduation project. SphinxGo lets you easily Book Flights, Reserve Tours, and Book Hotels – all within a single platform! Plus, it features an AI-powered Chatbot and many other exciting tools to revolutionize travel planning. Designed to simplify and enhance your journey, SphinxGo is the ultimate travel companion!
 
 - 💬 Ask me about **anything**
 
