@@ -126,13 +126,6 @@
 
 ---
 
-## 🎵 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
 
