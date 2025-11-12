@@ -70,43 +70,11 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedamrr13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="Mohamed's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamrr13&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="Mohamed's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamrr13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedamrr13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9" alt="Contribution Graph" width="100%"/>
-</div>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamedamrr13&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<!-- Replace the links below with your actual repositories -->
-<a href="https://github.com/mohamedamrr13?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedamrr13&repo=mohamedamrr13&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="Repository" />
-</a>
-
-</div>
-
-> 💡 **Check out my repositories to see more projects!**
 
 ---
 
