@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Mohamed%20Amr&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Mobile%20App%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
-</div>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Mohamed+Amr;Passionate+Flutter+Developer;Building+Beautiful+Mobile+Apps;From+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" /></a>
 </p>
