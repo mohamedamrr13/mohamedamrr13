@@ -4,10 +4,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedamrr13&label=Profile%20views&color=667eea&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/mohamedamrr13?label=Followers&style=for-the-badge&color=764ba2" alt="followers" />
 </p>
 
----
+
 
 
 **Passionate about creating seamless user experiences**
@@ -15,9 +14,7 @@
 **Currently mastering Flutter development and mobile architecture patterns**
 **Love to contribute to open-source projects**
 
----
 
-## 🛠️ Tech Stack
 
 <div align="center">
 
