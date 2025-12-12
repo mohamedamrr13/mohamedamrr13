@@ -9,26 +9,17 @@
 
 ---
 
-## 🚀 About Me
 
-🎯 **Passionate about creating seamless user experiences**
-💡 **Always eager to learn and explore new technologies**
-🌱 **Currently mastering Flutter development and mobile architecture patterns**
-✨ **Love to contribute to open-source projects**
+**Passionate about creating seamless user experiences**
+**Always eager to learn and explore new technologies**
+**Currently mastering Flutter development and mobile architecture patterns**
+**Love to contribute to open-source projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### 💙 Primary Skills
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mo-amr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.egypt140@gmail.com)
