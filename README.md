@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Mohamed+Amr;Passionate+Flutter+Developer;Building+Beautiful+Mobile+Apps;From+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p align="center" style = "padding-left: 15px">
   <img src="https://komarev.com/ghpvc/?username=mohamedamrr13&label=Profile%20views&color=667eea&style=for-the-badge" alt="profile views" />
 </p>
 
